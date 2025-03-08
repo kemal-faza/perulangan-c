@@ -1,4 +1,4 @@
-/*Nama File 	: faktorBil.c*/
+/*Nama File 	: bilSempN.c*/
 /*Deskripsi 	: Program menampilkan bilangan sempurna dari 1 sampai N*/
 /*Pembuat   	: 24060124120013-Muhamad Kemal Faza*/
 /*Tgl Pembuatan	: 5/03/2025 - 17.00*/

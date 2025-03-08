@@ -1,5 +1,5 @@
-/*Nama File 	: faktorBil.c*/
-/*Deskripsi 	: Program memeriksa apakah bilangan N merupakan bilangan sempurna*/
+/*Nama File 	: cekBilSemp.c*/
+/*Deskripsi 	: Program memeriksa apakah bilangan N merupakan bilangan sempurna atau bukan*/
 /*Pembuat   	: 24060124120013-Muhamad Kemal Faza*/
 /*Tgl Pembuatan	: 5/03/2025 - 17.00*/
 #include <stdio.h>

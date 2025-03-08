@@ -1,5 +1,5 @@
 /*Nama File 	: cekBilAll.c*/
-/*Deskripsi 	: Program memeriksa apakah bilangan N merupakan bilangan prima atau bukan.*/
+/*Deskripsi 	: Program memeriksa apakah bilangan N merupakan bilangan prima, sempurna, atau biasa.*/
 /*Pembuat   	: 24060124120013-Muhamad Kemal Faza*/
 /*Tgl Pembuatan	: 5/03/2025 - 21.46*/
 #include <stdio.h>
