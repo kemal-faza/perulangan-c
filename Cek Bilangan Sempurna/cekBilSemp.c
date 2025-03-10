@@ -37,4 +37,6 @@ int main()
             printf("Bilangan %d bukan merupakan bilangan sempurna", N);
         }
     }
+
+    return 0;
 }

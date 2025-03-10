@@ -25,4 +25,6 @@ int main()
         }
         printf("Jumlah deret dari 1 sampai %d = %d", N, total);
     }
+
+    return 0;
 }

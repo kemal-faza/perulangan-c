@@ -36,4 +36,6 @@ int main()
             printf("Bilangan %d bukan merupakan bilangan prima", N);
         }
     }
+
+    return 0;
 }

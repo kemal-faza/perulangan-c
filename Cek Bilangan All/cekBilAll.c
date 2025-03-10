@@ -44,4 +44,6 @@ int main()
             printf("Bilangan %d merupakan bilangan biasa", N);
         }
     }
+
+    return 0;
 }
